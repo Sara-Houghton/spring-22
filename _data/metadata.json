@@ -1,10 +1,10 @@
 {
-  "title": "Cy",
+  "title": "Sara",
   "url": "https://iastate.edu/",
   "language": "en",
-  "description": "Cy is a mascot",
+  "description": "Sara is an advertising student at ISU",
   "feed": {
-    "subtitle": "Cy is a mascot",
+    "subtitle": "Sara is an advertising student at ISU",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://iastate.edu/"
@@ -14,9 +14,9 @@
     "url": "https://iastate.edu/feed/feed.json"
   },
   "author": {
-    "name": "Cy",
-    "email": "cy@iastate.edu",
+    "name": "Sara",
+    "email": "sarahoug@iastate.edu",
     "url": "https://iastate.edu/about-me/",
-    "twitter": "iastate"
+    "twitter": "saraahoughton"
   }
 }
