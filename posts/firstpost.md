@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: Gymnastics Skills for Beginners: Where to Start
+description: Here are the beginner skills on floor, valt, beam and bars for kids and adults learning gymnastics for the first time. 
 date: 2018-05-01
 tags:
   - another tag
