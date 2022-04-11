@@ -1,6 +1,6 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: Is Competitive Gymnastics Worth it?
+description: A guide to competitive gymnastics levels, the right age to start and how to become a competitive gymnast
 date: 2018-08-24
 tags:
   - second tag
