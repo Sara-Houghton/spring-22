@@ -1,6 +1,6 @@
 ---
-title: Gymnastics Stretching Routine: How to Build Flexibility at Home.
-description: A guide to the basic gymnastics stretches that will improve flexibility needed for gymnastics skills.
+title: Gymnastics Stretching Routine - How to Build Flexibility at Home
+description: A guide to the basic gymnastics stretches that will improve flexibility needed for gymnastics skills
 date: 2018-07-04
 tags:
   - number 2
