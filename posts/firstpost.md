@@ -12,6 +12,7 @@ Is your kid taking their first gymnastics class? Are you trying to learn gymnast
 ## Vault
 
 Vault can seem intimidating at first, but any beginner gymnast will start with a squat-on. This skill teaches the fundamentals of running towards and punching the springboard to get over the vault table. In practice, it just looks like a frog jump onto the table. 
+
 The other main skill taught through vault is the jump and stick dismount. The stick position is used in every event in beginner and advanced gymnastics, but jumping off the vault is the simplest way to start. 
 
 
