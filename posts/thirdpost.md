@@ -1,13 +1,20 @@
 ---
 title: Is Competitive Gymnastics Worth it?
 description: A guide to competitive gymnastics levels, the right age to start and how to become a competitive gymnast
-date: 2018-08-24
+date: 2022-03-01
 tags:
   - second tag
   - posts with two tags
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Your kid may have been invited to a gymnastics team tryout, or you may be interested in asking your gym about competitive options. You may have heard phrases thrown around like J.O. and Xcel, or you may be concerned about the demanding time commitment you’ve heard about.
+
+This article will address all these topics and more regarding the common question, “is competitive gymnastics worth it?”
+
+## Program Options
+
+When discussing competitive gymnastics, it’s important to start with explaining the two very different programs: Xcel and J.O. Each program features gymnasts of different ages, different skill levels, different time commitments, different costs and ultimately different purposes.
+
 
 ``` js/2/4
 // this is a command
@@ -21,9 +28,3 @@ function myCommand() {
 // Test with a line break above this line.
 console.log('Test');
 ```
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
