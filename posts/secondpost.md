@@ -6,13 +6,12 @@ tags:
   - number 2
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+If you or your kid are learning gymnastics for the first time, you may be finding that beginner gymnastics skills can be challenging without a baseline of flexibility. Your kid may be doing a stretching routine in class, but this will only be so effective when done once a week. Stretching at home will improve the flexibility needed to practice skills in class. 
 
-## Section Header
+Gymnasts can follow a similar flexibility routine to their routine in practice. There are a few gymnastics stretches used in any gym, and they don’t require any equipment. These stretches are generally the straddle, pike, splits, and backbend.
+
+## Straddle
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
 <a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
